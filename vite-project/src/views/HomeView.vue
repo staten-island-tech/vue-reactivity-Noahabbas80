@@ -262,7 +262,7 @@ let upInfo = [
         effect: ["percent",8,2],
         id: "True-Gender-Equality",
         quote: "IDK You Beat The Game.Good Job",
-        desc: "Increases IIT Graduates Productivity By 100%",
+        desc: "Increases Woman Productivity By 100%",
         show: ref(true),
        },
        {
