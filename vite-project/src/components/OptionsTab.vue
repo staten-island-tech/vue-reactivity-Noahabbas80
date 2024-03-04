@@ -11,7 +11,7 @@
       <form id="cheats">
         <h2 class="audioText">Cheats</h2>
         <input id='cForm' type="text"  @submit.prevent="$emit('cheat',text)"><br>
-        <button @click.prevent="$emit('cheat',text)">eaeaea</button>
+        <button @click.prevent="$emit('cheat',text)">Submit</button>
       </form> 
       <div id="stat">
         <h2>Stats</h2>
