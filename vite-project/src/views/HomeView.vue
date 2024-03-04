@@ -230,6 +230,15 @@ let upInfo = [
         show: ref(true),
        },
        {
+      price: 375000,
+        url: "https://dlcdnwebimgs.asus.com/gain/1D6EF918-6D35-4727-BD7A-1DA2908ABB58",
+        effect: ["click",3],
+        id: "More-Bytes",
+        quote: "I Swear I Need This To Code",
+        desc: "Increases Click Power By 200%",
+        show: ref(true),
+       },
+       {
       price: 9000000,
         url: "https://cdn-icons-png.flaticon.com/512/3593/3593510.png",
         effect: ["percent",5,2],
