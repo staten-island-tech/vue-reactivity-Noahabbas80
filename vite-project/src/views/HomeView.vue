@@ -161,7 +161,7 @@ let upInfo = [
   price: 12750,
  url: "https://cdn-icons-png.flaticon.com/512/6978/6978255.png",
  effect: ["reduce",2,.8],
- id: "College-Credit",
+ id: "Pizza-Party",
  quote: "Great Way To Announce The Layoffs",
  desc: "Reduces Unpaid Interns Price By 200%",
  show: ref(true), //keep
